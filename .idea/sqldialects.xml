@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/BDD/istore.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/BDD/istore_test.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/admin/addEmployeeToStore.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/admin/createItem.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/admin/createStore.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/admin/deleteItem.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/admin/deleteStore.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/admin/listAllStore.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/admin/whiteListUser.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/employe/deleteUser.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/employe/listAllUsers.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/employe/listEmployeStore.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/employe/updateUser.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/principal/LoginFrame.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/principal/listItemsFromStore.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/principal/listPersonAcess.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/principal/registerFrame.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/utils/LastID.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/utils/askIDInventory.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/utils/askIDItem.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/utils/askIDStore.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/utils/askId.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/utils/updateItem.java" dialect="GenericSQL" />
+  </component>
+</project>

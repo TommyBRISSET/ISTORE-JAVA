@@ -1,0 +1,35 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\tommy\Documents\GitHub\JAVA-ISTORE\setup\istore.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\tommy\Documents\GitHub\JAVA-ISTORE\setup\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.016.000
+Java max ver:	1.022.000
+JRE paths:	C:\Program Files\Java\jdk-21\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-21\bin\java.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_401
+Version string: 1.008.000_401 / 64-Bit (Ignore)
+Ignore:		1.008.000_401
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\21.0.1
+Version string: 1.021.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Match:		1.021.000_001
+Runtime used:	1.021.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "C:\Users\tommy\Documents\GitHub\JAVA-ISTORE\setup\istore.exe"
+Args length:	67/32768 chars
+Exit code:	0
